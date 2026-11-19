@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- hard shadow (same shapes, offset) -->
+    <group
+        android:translateX="4"
+        android:translateY="4">
+        <path
+            android:fillColor="#121212"
+            android:pathData="M6,33h9v34h-9z M13,40h40v20h-40z M35,50a27,27 0 1,0 54,0a27,27 0 1,0 -54,0"
+            android:strokeColor="#121212"
+            android:strokeWidth="3" />
+    </group>
+
+    <!-- pipe -->
+    <path
+        android:fillColor="#2EE6A6"
+        android:pathData="M13,40h40v20h-40z"
+        android:strokeColor="#121212"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#2EE6A6"
+        android:pathData="M6,33h9v34h-9z"
+        android:strokeColor="#121212"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round" />
+
+    <!-- play circle -->
+    <path
+        android:fillColor="#FF4D8D"
+        android:pathData="M35,50a27,27 0 1,0 54,0a27,27 0 1,0 -54,0"
+        android:strokeColor="#121212"
+        android:strokeWidth="3" />
+    <path
+        android:fillColor="#FFF8E6"
+        android:pathData="M55,37v26l22,-13z"
+        android:strokeColor="#121212"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round" />
+</vector>

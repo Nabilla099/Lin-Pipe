@@ -1,0 +1,9 @@
+Lin Pipe is a free, lightweight streaming app for Android, built on the NewPipe source code (https://github.com/TeamNewPipe/NewPipe). It runs entirely on your device: no account, no Google services, no tracking.
+
+<b>Highlights</b>
+• A home screen with category chips and recommendations based on your watch history (computed locally)
+• Fresh new look with light, dark and black modes
+• Responsive layout for phones and tablets
+• Background play, popup player, downloads, subscriptions without an account, playlists and history
+
+Requires Android 6.0 or newer. Lin Pipe is an unofficial fork and is not affiliated with the NewPipe team.
